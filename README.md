@@ -2,7 +2,7 @@
 
 A beautiful and modern weather application built with Next.js 14, Ant Design, and Framer Motion. Get real-time weather updates, hourly forecasts, and 5-day predictions with a sleek, responsive interface.
 
-![Weather App Screenshot]<img width="963" alt="weather-app" src="https://github.com/user-attachments/assets/46528bd0-46d8-444e-ace1-9af55578b433" />
+<img width="959" alt="weather-app" src="https://github.com/user-attachments/assets/dc9793c2-c079-48f3-8d69-908815c95533" />
 
 ## ✨ Features
 
@@ -137,5 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Framer Motion](https://www.framer.com/motion/) for animations
 - [Next.js](https://nextjs.org/) for the awesome framework
 
-## Live Link: https://weather-app-two-black-95.vercel.app/
+## Live Link: 
+
+https://weather-app-two-black-95.vercel.app/
 
