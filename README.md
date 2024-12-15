@@ -1,6 +1,6 @@
 # Next.js Weather Application
 
-A beautiful and modern weather application built with Next.js 14, Ant Design, and Framer Motion. Get real-time weather updates, hourly forecasts, and 5-day predictions with a sleek, responsive interface.
+A beautiful and modern weather application built with Next.js 14, Ant Design, and Framer Motion. Get real-time weather updates, hourly forecasts, and 6-day predictions with a sleek, responsive interface.
 
 <img width="959" alt="weather-app" src="https://github.com/user-attachments/assets/dc9793c2-c079-48f3-8d69-908815c95533" />
 
